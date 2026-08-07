@@ -3,7 +3,7 @@
 現在：設計フェーズ
 
 Version:
-v0.1 Planning
+v1.0 Planning
 
 Next:
 - Database設計
